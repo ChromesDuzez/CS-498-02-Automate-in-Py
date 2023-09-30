@@ -1,0 +1,1 @@
+Week 10 is all about Controlling Keyboard and Mouse with GUI Automation which is chapter 20 in the book.

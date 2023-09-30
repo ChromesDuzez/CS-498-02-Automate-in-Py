@@ -1,0 +1,1 @@
+Week 3 is all about Web Scraping which is chapter 12 in the book.

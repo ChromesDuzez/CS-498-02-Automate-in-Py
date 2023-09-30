@@ -1,0 +1,2 @@
+The Final Project is a singular program that demonstrates multiple aspects of the types of 
+data manipulation/automation I have learned accross the 10 Weeks.

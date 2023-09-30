@@ -1,0 +1,1 @@
+Week 6 is all about editing CSV and JSON data which is chapter 16 in the book.

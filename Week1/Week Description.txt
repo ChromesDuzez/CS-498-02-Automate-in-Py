@@ -1,0 +1,4 @@
+Week 1 is all about going through the python basics chapters 1-6 in the book and going through it, 
+I realized alot of it was stuff I already knew or was actively going over in CS 360 with Professor Brennan.
+Therefore, to show I understand the topics covered in the book, I am including some CS 360 notes, or course 
+work demonstrating my Python knowledge.
